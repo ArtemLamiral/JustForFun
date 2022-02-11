@@ -1,0 +1,2 @@
+[2022-01-24_03: 27 : 12 (self::log)]
+ [2022-01-24_03: 27 : 13 (self::)]  This is an error message
